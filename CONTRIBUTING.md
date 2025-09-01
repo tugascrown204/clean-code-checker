@@ -8,6 +8,7 @@ We welcome contributions to Clean Code Checker! Here's how you can get involved:
 3. **Make your changes**: Implement your features or bug fixes.
 4. **Write tests**: Ensure your changes are covered by tests.
 5. **Submit a pull request**: Describe the changes you made and why you think they should be merged.
+6. **Code Review**: Be open to feedback from maintainers and be prepared to make revisions based on their comments.
 
 ## Code of Conduct
 By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
