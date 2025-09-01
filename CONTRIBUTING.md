@@ -1,0 +1,16 @@
+# Contributing to Clean Code Checker
+
+We welcome contributions to Clean Code Checker! Here's how you can get involved:
+
+## How to Contribute
+1. **Fork the repository**: Click on the fork button on the top right of this page to create your own copy.
+2. **Create a new branch**: Use a descriptive name for your branch (e.g., `feature/new-rule`, `bugfix/issue-123`).
+3. **Make your changes**: Implement your features or bug fixes.
+4. **Write tests**: Ensure your changes are covered by tests.
+5. **Submit a pull request**: Describe the changes you made and why you think they should be merged.
+
+## Code of Conduct
+By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Need Help?
+If you have any questions or need help, feel free to open an issue in the repository. We’re here to help!
